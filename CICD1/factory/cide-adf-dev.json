@@ -1,0 +1,9 @@
+{
+	"name": "cide-adf-dev",
+	"location": "ukwest",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7f033842-fef0-428f-928f-f8608f3ea402",
+		"tenantId": "665a15a5-d025-4c27-af0d-f78f6b8e3da0"
+	}
+}
