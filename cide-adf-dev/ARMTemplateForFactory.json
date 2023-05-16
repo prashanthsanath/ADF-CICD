@@ -27,7 +27,7 @@
 			"properties": {
 				"activities": [
 					{
-						"name": "Copy blob to Table",
+						"name": "Copy blob to Table-cicddemo",
 						"description": "Cars data moved from blob to sql table",
 						"type": "Copy",
 						"dependsOn": [],
